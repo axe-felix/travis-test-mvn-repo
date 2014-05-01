@@ -2,11 +2,11 @@
 <metadata>
   <groupId>org.gradle.sample</groupId>
   <artifactId>travis-publish-tags</artifactId>
-  <version>1.3</version>
+  <version>1.4.3</version>
   <versioning>
     <versions>
-      <version>1.3</version>
+      <version>1.4.3</version>
     </versions>
-    <lastUpdated>20140501110856</lastUpdated>
+    <lastUpdated>20140501142304</lastUpdated>
   </versioning>
 </metadata>
